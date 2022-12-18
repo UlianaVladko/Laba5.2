@@ -1,0 +1,4 @@
+﻿  task_from_Lab5.2.cpp
+C:\Users\Admin\Desktop\ПОПКА МУРАВЬЯ\Программирование\Лаба5.2\task_from_Lab5.2\task_from_Lab5.2\task_from_Lab5.2.cpp(14,100): warning C4305: аргумент: усечение из "double" в "float"
+C:\Users\Admin\Desktop\ПОПКА МУРАВЬЯ\Программирование\Лаба5.2\task_from_Lab5.2\task_from_Lab5.2\task_from_Lab5.2.cpp(19,67): warning C4305: аргумент: усечение из "double" в "float"
+  task_from_Lab5.2.vcxproj -> C:\Users\Admin\Desktop\ПОПКА МУРАВЬЯ\Программирование\Лаба5.2\task_from_Lab5.2\x64\Debug\task_from_Lab5.2.exe
